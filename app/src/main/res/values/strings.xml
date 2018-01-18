@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OpenGLVideoRecord</string>
+
+    <string name="start_rec">录制</string>
+    <string name="start_show">预览</string>
+
+</resources>
